@@ -1,6 +1,6 @@
 use std::ops::Add;
 
-struct S1 {
+pub struct S1 {
     pub x: u64,
     pub y: u64,
 }
